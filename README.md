@@ -1,2 +1,1 @@
-# comkg.github.io
-common sense knowledge graph
+Common Sense Knowledge Graph
