@@ -178,6 +178,7 @@ a:hover {
   font-size: 17px;
   margin-bottom: 1.45em;
   text-align: justify;
+  text-indent: 2em; /*首行缩进*/
 }
 
 .post ul, .post ol {
@@ -288,4 +289,10 @@ a:hover {
   margin-top: 1.25em;
   font-size: 0.95em;
   color: #777;
+}
+
+blockquote {
+	padding:0 15px;
+	color:#777;
+	border-left:4px solid #ddd;
 }
