@@ -151,7 +151,7 @@ a:hover {
   clear: both;
 }
 
-.post h2 {
+.post h1, .post h2 {
   margin-top: 1.25em;
   margin-left: -0.5em;
   margin-bottom: 1.25em;
